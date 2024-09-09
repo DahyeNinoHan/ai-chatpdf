@@ -1,4 +1,6 @@
 langchain_community
+langchain_openai 
+langchain_text_splitters
 openai
 pypdf
 chromadb
