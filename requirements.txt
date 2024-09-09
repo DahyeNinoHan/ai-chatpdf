@@ -2,5 +2,5 @@ langchain
 openai
 pypdf
 chromadb
-tictoken
+tiktoken
 pysqlite3-binary
