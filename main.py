@@ -13,6 +13,7 @@ from langchain.chains import RetrievalQA
 import streamlit as st
 import tempfile
 import os
+import sqlite3
 
 
 #Streamlit - title
